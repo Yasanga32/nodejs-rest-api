@@ -71,3 +71,4 @@ This project is licensed under the [MIT License](LICENSE).
 # nodejs-rest-api
 
 Trigger CI test
+allow empty
